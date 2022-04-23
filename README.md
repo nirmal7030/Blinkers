@@ -2,7 +2,7 @@
 
 # Blinkers
 
-Website Link -->  https://rushikeshp2002.github.io/Blinkers/
+Website Link --> https://nirmal7030.github.io/Blinkers/
 
 Here is My Website SS 
 <hr>
